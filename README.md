@@ -4,9 +4,6 @@
 
 ## I'm a Husband, Father and Developer!
 
-- 🌱 I’m currently learning everything 🤣
-- ⚡ Fun fact: I love to draw and play guitar / drums
-
 ### Connect with me:
 
 [<img align="left" alt="sprioleau.dev" width="22px" src="https://raw.githubusercontent.com/tailwindlabs/heroicons/1d512146c15354804be4658df5c64b02d770d243/src/outline/home.svg" />][website]
