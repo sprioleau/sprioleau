@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=sprioleau.dev&style=for-the-badge&url=https%3A%2F%2Fsprioleau.dev)][website]
 
-## I'm a Husband, Father and Developer!
+## I'm a Husband, Father and Web Developer!
 
 ### Connect with me:
 
