@@ -47,17 +47,7 @@
 <br />
 <br />
 
---- -->
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Fullstack-MOOC/coursera-labs/pull/2) in [Fullstack-MOOC/coursera-labs](https://github.com/Fullstack-MOOC/coursera-labs)
-2. 🗣 Commented on [#2](https://github.com/Fullstack-MOOC/coursera-labs/issues/2) in [Fullstack-MOOC/coursera-labs](https://github.com/Fullstack-MOOC/coursera-labs)
-<!--END_SECTION:activity-->
-
-</details>
+-->
 
 [website]: https://www.sprioleau.dev
 [linkedin]: https://www.linkedin.com/in/sanquanprioleau/
