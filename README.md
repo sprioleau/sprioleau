@@ -1,4 +1,4 @@
-[![S.Prioleau Social Card](https://sprioleau.dev/images/sprioleau-social-card.png)][website]
+[![S.Prioleau Social Card](https://sprioleau.dev/images/sprioleau-social-card-2024-03.png)][website]
 
 [![Website](https://img.shields.io/website?label=sprioleau.dev&style=for-the-badge&url=https%3A%2F%2Fsprioleau.dev)][website]
 
